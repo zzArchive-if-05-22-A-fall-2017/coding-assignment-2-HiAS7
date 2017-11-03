@@ -9,7 +9,7 @@ The goal of this assignment is to train first steps with Prolog.
 
 ## The Background
 We consider a genealogy of the following form:
-![A genealogy with eight members](Genealogy.pdf).
+![A genealogy with eight members](Genealogy.png).
 ## Required Tasks
 1.
 ## Hints
