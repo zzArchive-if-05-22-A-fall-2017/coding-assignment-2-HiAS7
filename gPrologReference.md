@@ -56,5 +56,12 @@ yes
 ?- isCanary(fritz)
 no
 ```
-
+### Asking for Solutions
+We can go one step further and ask "Who is a frog"
+```
+?- isFrog(X).
+X = fritz
+yes
+?- 
+```
 Experiment with the given knowledge base to get familiar with the whole system.
